@@ -4,4 +4,4 @@
 # Скриншот
 <img src="https://github.com/rndn-labs/One-Dimensional-Array-Sorter/blob/master/assets/screenshot.PNG" alt="image" border="0"></img>
 # Загрузить
-<a href="https://github.com/rndn-labs/One-Dimensional-Array-Sorter/blob/master/assets/release.exe?raw=true">Здесь</a>
+Последняя версия <a href="https://github.com/rndn-labs/One-Dimensional-Array-Sorter/releases">здесь</a>
